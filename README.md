@@ -1,3 +1,7 @@
 # 4380-Tabular-Project
 
-Hello Word
+## Predicting Student's Academic Scores
+
+## Overview
+
+### Data
