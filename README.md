@@ -7,13 +7,13 @@
 ### Data
 **Data**
 - Type: Tabular
-  - Input:
-  - Output:
- - Size:
- - Instances:
+  - Input: Race, Socioeconomic Quartile, Parental Education, School Type, Locale, attendance rate, study hours, internet access, extrecurricular, part time job, parent supprot, romantic, free time, go out. 
+  - Output: Math Test Score, Reading Test Score, Science Test score, GPA
+ - Size: 8000774 rows x 21 columns
+ - Instances: 20% testing, 80% training
 
 **Preprocessing**
-There were no missing or duplicated data. 
+There were no missing or duplicated data. I encoded all the categorical variables and standardized numeric features. 
 
 **Data Visualization**
 The following images are showing bar graphs of the numerical variables to show the ranges. 
@@ -31,13 +31,15 @@ The majority of students from this dataset are white with Hispanic students bein
 
 **Problem Formulation**
 - Input/Output:
-- Models:
+- Models: The model I utilized for this project is linear regression. 
 
 **Training** 
+- m
 
 **Performance Comparison**
+- To be able to define how well the model's performance did, I utilized R^2 score which was 0.869 and an RMSE score of 3.219
 
 **Conclusions**
 
 **Future Work** 
-
+Some considerations for future work, is to be able identify which students are more likely to succeed academically by attaining high test scores and whichs students are less likely to succeed academically. 
