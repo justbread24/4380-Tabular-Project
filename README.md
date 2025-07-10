@@ -36,6 +36,11 @@ The majority of students from this dataset are white with Hispanic students bein
 ![image](https://github.com/user-attachments/assets/84291c2f-68c1-47f8-bfc1-2316ba39c4ae)
 ![image](https://github.com/user-attachments/assets/76ee134f-dc1f-4cc0-bd84-6defbceb38aa)
 
+With this heatmap, we can see that some of the most important columns are attendance rate, GPA, and study hours. 
+
+<img width="631" height="534" alt="image" src="https://github.com/user-attachments/assets/e0f8832f-c504-4108-8076-1b5be1093b97" />
+
+
 **Problem Formulation**
 - Input: Socioeconomic status, parental education, school type, school location, GPA, Attendance rate, study hours, internet access, extracurricular, part time job, parent support, romantic relationship, free time, go out. 
 - Output: Math, Science, and English test scores 
