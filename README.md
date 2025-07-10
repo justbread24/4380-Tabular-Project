@@ -1,8 +1,14 @@
 # 4380-Tabular-Project
 
 ## Predicting Student's Academic Scores
+This repository holds an attempt to apply a Linear Regression model to predict student academic outcomes. 
+
+https://www.kaggle.com/competitions/predict-student-performance-from-game-play
 
 ## Overview
+- The objective of this challenge is to predict academic outcomes—specifically, high test scores—using a dataset with 21 features. These features include various student attributes and academic indicators. The problem is formulated as a regression task, where the goal is to accurately estimate academic success based on the available predictors.
+- To address this, I implemented and compared three regression models: standard Linear Regression, Ridge Regression, and Lasso Regression. Each model was trained and evaluated using the same set of features to determine their effectiveness in predicting the target outcome.
+- After evaluation, the results indicated that all three models performed similarly, with no significant improvement observed when using Ridge or Lasso regularization compared to the baseline linear regression model.
 
 ### Data
 **Data**
